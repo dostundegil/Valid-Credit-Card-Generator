@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kredi Kartı/1.0.0": {
+        "dependencies": {
+          "CreditCardValidator": "2.0.1"
+        },
+        "runtime": {
+          "Kredi Kartı.dll": {}
+        }
+      },
+      "CreditCardValidator/2.0.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/CreditCardValidator.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kredi Kartı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditCardValidator/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8D+pnmcamVGonbG1AhmJwXDnR/l7e1pQwof0CIpIqMoJeGJfJKBQwjOw/amv82OMmjg0l6Xlub9agX1F1FMAtg==",
+      "path": "creditcardvalidator/2.0.1",
+      "hashPath": "creditcardvalidator.2.0.1.nupkg.sha512"
+    }
+  }
+}
